@@ -12,7 +12,8 @@ In my free time outside of work and programming I play a lot of games like Smash
 * 📬 Contact me at keetonfeavel@gmail.com
 * 🧧 Tweet me @auxel_
 * 🇩🇪 I am (slowly) learning German
-* 🖥 I love learning about computing history
+* 🖥 I *love* learning about computing history
+* 🌳 I am all about clean energy
 * ⚡️ Join me in working on Panix!
 
 Thanks for checking out my profile! Feel free to create an issue or fork anything you find interesting!
