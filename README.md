@@ -1,6 +1,7 @@
 ### Keeton Feavel
 
-![Hero Image](https://pbs.twimg.com/profile_banners/495090007/1549245166/1500x500)
+![Hero Image](https://pbs.twimg.com/profile_banners/495090007/1600395087/1500x500)
+##### Hero image by [Gediminas Pranckevičius](https://www.instagram.com/gediminas.pranckevicius/)
 
 **Hey there. 👋** My name is Keeton Feavel and I'm a software and reverse engineer 👨‍💻. My job is to learn how things work at a low level and then break them, so I'm basically paid to void warranties. It's a lot of fun. 😁 When I'm not writing code for work, then I'm probably writing code for Panix, which is a unix-like kernel that my friend [@micahswitzer](https://github.com/micahswitzer) and I are working on together.
 
