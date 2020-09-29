@@ -18,3 +18,5 @@ In my free time outside of work and programming I play a lot of games like Smash
 * ⚡️ Join me in working on Panix!
 
 Thanks for checking out my profile! Feel free to create an issue or fork anything you find interesting!
+
+[![Kfeavel's github stats](https://github-readme-stats.vercel.app/api?username=kfeavel)](https://github.com/anuraghazra/github-readme-stats)
