@@ -2,4 +2,4 @@
 
 Feel free to create an issue or fork anything you find interesting.
 
-[![Kfeavel's github stats](https://github-readme-stats.vercel.app/api?username=kfeavel&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Kfeavel's github stats](https://github-readme-stats.vercel.app/api?username=kfeavel&theme=dark&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
